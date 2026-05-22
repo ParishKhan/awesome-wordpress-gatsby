@@ -155,7 +155,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 - 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws) - In this video you will learn how to use GraphQL with WordPress using an awesome plugin named WPGraphQL and some extra cool stuff like GraphQL + Advanced Custom Fields.
 - 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg) - Jason Bahl shows how to use WPGraphQL for Advanced Custom Fields.
 - 2018.07: [GraphQL with WordPress and Gutenberg - Jason Bahl - 2018 JavaScript for WordPress Conference
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/wordpress-management) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 ](https://www.youtube.com/watch?v=6CuM1PY9ESQ) - In this talk from the 2018 JavaScript for WordPress Conference, the Developer of the WP GraphQL Plugin, Jason Bahl, gives updated examples of how you can use GraphQL with WordPress and Gutenberg.
 
 
